@@ -48,20 +48,20 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/F4cu1519/rust-book-projects">
-        <img src="https://via.placeholder.com/600x300/E57324/white?text=Rust+Book+Projects" alt="Rust Projects" width="100%" style="border-radius: 8px; margin-bottom: 10px;"/>
+        <h3>🦀 Rust Book Projects</h3>
       </a>
       <br>
       <a href="https://github.com/F4cu1519/rust-book-projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=F4cu1519&repo=rust-book-projects&theme=tokyonight&show_owner=false&hide_border=true" width="100%"/>
+        <img src="https://github.com/F4cu1519/rust-book-projects/blob/main/4373303-middle.png?raw=true" width="100%"/>
       </a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/F4cu1519/Notas">
-        <img src="https://via.placeholder.com/600x300/3670A0/white?text=Notas+y+Estudios" alt="Notas Projects" width="100%" style="border-radius: 8px; margin-bottom: 10px;"/>
+        <h3>📚 University Notes</h3>
       </a>
       <br>
       <a href="https://github.com/F4cu1519/Notas">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=F4cu1519&repo=Notas&theme=tokyonight&show_owner=false&hide_border=true" width="100%"/>
+        <img src="https://github.com/F4cu1519/Notas/blob/main/PF/icon128.png?raw=true" width="100%"/>
       </a>
     </td>
   </tr>
@@ -89,6 +89,6 @@
 
 <p align="center">
   📫 <b>Connect with me:</b> 
-  <a href="https://linkedin.com/in/tu-usuario"><b>LinkedIn</b></a> | 
+  <a href="https://linkedin.com/in/facundo-arana"><b>LinkedIn</b></a> | 
   <a href="mailto:aranna1519@gmail.com"><b>Email</b></a>
 </p>
