@@ -1,10 +1,8 @@
 <h1 align="center">Hi, I'm Facundo Arana (F4cu1519) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
+<h2><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me <a href="https://linkedin.com/in/facundo-arana"><img align="right" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35px" alt="LinkedIn"></a></h2>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
-
-<br><br>
+<br>
 
 - :school: I am a **5th-year Systems Engineering Student** at **UTN (Universidad Tecnológica Nacional)**.
 - :mortar_board: Proudly completed **Harvard's CS50** (Computer Science Foundations).
