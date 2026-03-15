@@ -55,11 +55,11 @@
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/F4cu1519/Notas">
-        <h3>📚 University Notes</h3>
+        <h3>📚Notes</h3>
       </a>
       <br>
       <a href="https://github.com/F4cu1519/Notas">
-        <img src="https://github.com/F4cu1519/Notas/blob/main/PF/icon128.png?raw=true" width="100%"/>
+        <img src="https://github.com/F4cu1519/Notas/blob/main/PF/icon128.png?raw=true" width="50%"/>
       </a>
     </td>
   </tr>
