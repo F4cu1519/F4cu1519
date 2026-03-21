@@ -2,18 +2,6 @@
 
 <h2><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me <a href="https://linkedin.com/in/facundoarana"><img align="right" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35px" alt="LinkedIn"></a></h2>
 
-<br>
-
-- :school: I am a **5th-year Systems Engineering Student** at **UTN (Universidad Tecnológica Nacional)**.
-- :mortar_board: Proudly completed **Harvard's CS50** (Computer Science Foundations).
-- :crab: **Rust Enthusiast** focused on high-performance and memory-safe systems.
-- :cloud: **Cloud Architect Trainee** building and deploying scalable solutions on **AWS**.
-- :technologist: I love using Software and **Infrastructure as a Solution** for every `Problem`.
-- :nerd_face: Always maintaining a **GitHub streak** to prove my `Proof of Work`.
-- :thinking: I’m currently open for a new `job opportunity`.
-
-<br>
-
 ## 🛠️ Technical Skills
 
 ### 🚀 Core & Systems
