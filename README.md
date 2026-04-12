@@ -56,7 +56,7 @@
 ## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=F4cu1519&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Stats" height="180px">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=F4cu1519&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Stats" height="170px">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=F4cu1519&layout=compact&theme=tokyonight&hide_border=true" alt="Langs" height="180px">
 </p>
 
@@ -66,7 +66,7 @@
 
 <h3 align="center">Contribution Calendar</h3>
 <p align="center">
-  <img src="https://ghchart.rshah.org/00ff00/F4cu1519" width="100%" alt="Calendario" style="background-color: black; padding: 10px; border-radius: 5px;" />
+  <img src="https://ghchart.rshah.org/00ff00/F4cu1519" width="95%" alt="Calendario" style="background-color: white; padding: 10px; border-radius: 5px;" />
 </p>
 
 <br>
